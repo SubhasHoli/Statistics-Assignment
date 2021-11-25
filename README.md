@@ -1,2 +1,2 @@
 # Statistics-Assignment
-This folder is created to upload statistics Assignment
+Statistics Assignment related to Covid, IPL toutnament and sales data is uploaded here.
